@@ -14,6 +14,5 @@ public class PersonalDetails
         System.out.println( "Full Addess:" + address);
         System.out.println( "Mobile Number: "+ Mobile );
         System.out.println( "Salary:£"+ Digit + Salary);
-        System.out.println( "Salary:£"+ Digit + Salary);
     }
 }
