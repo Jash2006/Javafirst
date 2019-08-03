@@ -10,5 +10,6 @@ public class UserMulti {
         System.out.println("Please enter second digit");
         int b = scanner.nextInt();
         System.out.println("Multiplication of " + a + " and " + b + " is = " + (a*b));
+        System.out.println("manojbhai");
     }
 }
